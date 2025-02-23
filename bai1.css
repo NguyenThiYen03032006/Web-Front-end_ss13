@@ -1,0 +1,266 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.around{
+    width:676.45px;
+    height:2835.44px;
+    margin:auto;
+}
+.around1_lalasia{
+    width: 676.45px;
+    height: 554.92px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header_lalasia{
+    width: 676.45px;
+    height:56.37px;
+    border-bottom: 1px solid rgb(245, 242, 240, 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 46.975px;
+    padding-right: 46.975px;
+}
+.logo_lalasia{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    width:61.09px;
+    height: 19.73px;
+    
+}
+.home_lalasia{
+    width:216.56px;
+    height:22px;
+
+   
+}
+.ul_lalasia{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    list-style-type: none;
+    
+    font-size: 10px;
+    width:100%;
+    height:100%;
+    padding-left: -2rem;
+    padding-bottom: -1rem;
+}
+.user_lalasia{
+    height:14.09px;
+    width:35px;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.body1_lalasia{
+    padding-top: 50px;
+
+
+}
+.h1{
+    margin:auto;
+    font-size: small;
+    text-align: center;
+    position: relative;
+    
+    width:330px;
+}
+
+.star{
+    position:absolute;
+    right:20px;
+    top:30px;
+}
+.p{
+    margin-left: 151.265px;
+    margin-right: 151.265px;
+    color:rgb(175, 173, 181, 100%);
+    font-size:10px;
+    display:flex;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 18px;
+    
+}    
+.line{
+    position:relative;
+    bottom:100px;
+    left:50px;
+    
+}
+.div_search{
+    position:relative;
+    bottom:350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width:380.5px;
+    height:39.46px;
+    background-color: white;;
+    margin-left: 147.975px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.search{
+    display:flex;
+    justify-content: space-between;
+    
+    width:95px;
+    height:15.3px;
+    font-size: 10px;
+    color: rgb(175,173,181,100%);
+}
+.button_search{
+    width:79.86px;
+    height:25.37px;
+    background-color: rgb(81, 133, 129, 100%);
+    color:white;
+}
+.sofa{
+    position:relative;
+    margin-left:46.975px;
+    bottom:100px;
+ }
+ .body2_lalasia{
+    
+    padding-left: 46.975px;
+    padding-right: 46.975px;
+ }
+ .benefits{
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    
+ }
+ .benefits1{
+    width:204px;
+    height:71.58px;
+    
+ }
+ .benefits1_1{
+    font-size: 10px;
+    color: rgb(255, 178,63,100%);
+
+ }
+ .benefits1_2{
+    font-size: 20px;
+ }
+ .benefits2{
+    width:237.23px;
+    height:45px;
+    font-size: 10px;
+    line-height: 15px;
+    color:rgb(175,173,181,100%);
+    
+ }
+ .choice{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: 20px;
+ }
+ .choice1{
+    width:185.08px;
+    height:133.88px;
+    
+    line-height: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+ }
+ .choice_p{
+    font-size: 10px;
+    line-height: 15px;
+    color:rgb(175,173,181,100%);
+ }
+ .body3_lalasia{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+ .product{
+    width:308.16px;
+    
+    text-align: center;
+    margin:auto;
+    padding-bottom:20px;
+ }
+ .product1{
+    font-size: 10px;
+    color: rgb(255, 178,63,100%);
+ }
+ .product2{
+    padding:10px;
+ }
+ .product3{
+    font-size: 10px;
+    line-height: 15px;
+    color:rgb(175,173,181,100%);
+ }
+.product_img{
+    display: flex;
+    justify-content: space-between;
+}
+.product_img1{
+    position:relative;
+    bottom:150px;
+    left:20px;
+}
+.product_img2{
+    position:relative;
+    bottom:150px;
+    left:600px;
+}
+.product_img3{
+    position:relative;
+    
+    top:100px;
+}
+.product_img4{
+    position:relative;
+    
+    left:100px;
+    top:100px;
+}
+.product_img5{
+    position:relative;
+    
+    left:100px;
+    top:100px;
+}
+.product_img6{
+    position:relative;
+    
+    left:100px;
+    top:100px;
+}
+.product_img7{
+    position:relative;
+
+    top:50px;
+    left:60px;
+}
+.product_img8{
+    position:relative;
+    
+    top:100px;
+    right:200px;
+}
+.product_img9{
+    position:relative;
+    
+    top:250px;
+    right:300px;
+}
+.product_img10{
+    position:relative;
+    
+    left:350px;
+}
